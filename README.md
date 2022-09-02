@@ -2,7 +2,7 @@
 
 ### What's here
 
-trying out some model-based algos
+trying out some model-based algos. yet to be moved
 
 ### Write up & reference
 - [Model updating after interventions paradoxically introduces bias](http://proceedings.mlr.press/v130/liley21a/liley21a.pdf) with [suppl](http://proceedings.mlr.press/v130/liley21a/liley21a-supp.pdf)
